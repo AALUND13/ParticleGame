@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="ParticleGame:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/ParticleGame_jar</output-path>
+    <root id="archive" name="ParticleGame.jar">
+      <element id="module-output" name="ParticleGame" />
+    </root>
+  </artifact>
+</component>
